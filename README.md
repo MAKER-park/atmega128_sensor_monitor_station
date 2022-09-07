@@ -19,3 +19,4 @@ https://www.youtube.com/watch?v=uOai0xDFopc
 ![Alt text](/image/2.PNG)
 
 ## Device
+![Alt text](/image/3.PNG)
