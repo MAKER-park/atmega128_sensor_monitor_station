@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=uOai0xDFopc
 3.ESP8266 Wifi Module   
 ![Alt text](/image/5.PNG)
 
-4.WEMOS D1   
+4.WEMOS D1 Mini   
 ![Alt text](/image/6.PNG)
 
 5.DHT11(Humidity/Temperature Sensor)   
