@@ -31,11 +31,11 @@ https://www.youtube.com/watch?v=uOai0xDFopc
 4.WEMOS D1   
 ![Alt text](/image/6.PNG)
 
-5.DHT11   
+5.DHT11(Humidity/Temperature Sensor)   
 ![Alt text](/image/7.PNG)
 
 6.WS2812B LED   
 ![Alt text](/image/8.PNG)
 
-7.PMS A003A Ultrafine Dust Sensor   
+7.PMS A003A(Ultrafine Dust Sensor)   
 ![Alt text](/image/9.PNG)
