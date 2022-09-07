@@ -1,4 +1,4 @@
-# atmega128_sensor_monitor_station
+# ATmega128_sensor_monitor_station
 http get communication data get 
 
 1. sensor data update ESP8266 WEMOS D1 mini
