@@ -33,3 +33,8 @@ https://www.youtube.com/watch?v=uOai0xDFopc
 
 5.DHT11   
 ![Alt text](/image/7.PNG)
+
+6.WS2812B LED   
+![Alt text](/image/8.PNG)
+
+7.
