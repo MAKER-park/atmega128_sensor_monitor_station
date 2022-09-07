@@ -37,4 +37,5 @@ https://www.youtube.com/watch?v=uOai0xDFopc
 6.WS2812B LED   
 ![Alt text](/image/8.PNG)
 
-7.
+7.PMS A003A Ultrafine Dust Sensor   
+![Alt text](/image/9.PNG)
