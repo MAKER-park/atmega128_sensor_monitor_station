@@ -17,3 +17,5 @@ https://www.youtube.com/watch?v=uOai0xDFopc
 
 ## schmetic
 ![Alt text](/image/2.PNG)
+
+## Device
