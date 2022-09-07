@@ -19,9 +19,9 @@ https://www.youtube.com/watch?v=uOai0xDFopc
 ![Alt text](/image/2.PNG)
 
 ## Device
-1.Netion Display
-![Alt text](/image/3.PNG)
-
-
-2.NewTC ATmega128
+1.NewTC ATmega128
 ![Alt text](/image/4.PNG)
+
+
+2.Nextion Display
+![Alt text](/image/3.PNG)
