@@ -24,3 +24,12 @@ https://www.youtube.com/watch?v=uOai0xDFopc
 
 2.NewTC ATmega128   
 ![Alt text](/image/4.PNG)
+
+3.ESP8266 Wifi Module   
+![Alt text](/image/5.PNG)
+
+4.WEMOS D1   
+![Alt text](/image/6.PNG)
+
+5.DHT11   
+![Alt text](/image/7.PNG)
