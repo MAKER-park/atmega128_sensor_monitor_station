@@ -12,10 +12,10 @@ http get communication data get
 ## VIDEO CLIP
 https://www.youtube.com/watch?v=uOai0xDFopc
 
-## flowchart
+## Flowchart
 ![Alt text](/image/1.PNG)
 
-## schmetic
+## Schmetic
 ![Alt text](/image/2.PNG)
 
 ## Device
