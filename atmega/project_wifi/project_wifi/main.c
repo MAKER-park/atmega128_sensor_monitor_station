@@ -174,7 +174,7 @@ int main(void)
 	//for uart0 setting
 	DDRE = 0xFE;
 	UCSR0A = 0x00;
-	UCSR0B |= (1<<TXEN0)|(1<<RXEN0);//recvie send enable
+	UCSR0B |= (1<<RXCIE0)|(1<<TXEN0)|(1<<RXEN0);//recvie send enable
 	UBRR0H = 0x00;
 	UBRR0L = 103;// 9600 BAUD 
 	UCSR0B = 0x98;
